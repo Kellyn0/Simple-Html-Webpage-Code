@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+<TITLE> MyWebPage 1.0 </TITLE>
+</HEAD>
+<BODY bgcolor="pink">
+<a href="mypage.htm"> HOME </a> | <a href="aboutus.htm"> ABOUT US </a> | <a href="http://www.youtube.com"> YOUTUBE </a> | MAIL:<a href="mailto:kellynimathiu@gmail.com"> kellynimathiu@gmail.com </a>
+<h1 align="center"> MUSIC MATTERS </h1>
+<h2 align="left"> Music Categories </h2>
+<ul>
+   <li> Hip Hop </li>
+   <li> R&B </li>
+   <li> Rock </li>
+   <li> Soul </li>
+   <li> Jazz </li>
+</ul>
+
+<dl>
+   <dt>Top Hits </dt>
+     <dd> 2000s Hits </br> 1990s Hits </br> 1980s Hits </br> 1970s Hit </dd>
+   <dt> Latest Releases </dt>
+     <dd> R&B </br> Hip Hop </br> Rock </br> Soul </br> Classic </dd>
+&nbsp;&nbsp;&nbsp All Rights Researved &nbsp;&nbsp;&nbsp; Copyright &copy; 2017
+</BODY>
+</HTML>
